@@ -1,8 +1,8 @@
-#First Non-Repeated Character
+##First Non-Repeated Character
 
 Write a program which finds the first non-repeated character in a string.
 
-##INPUT SAMPLE:
+###INPUT SAMPLE:
 
 The first argument is a path to a file. The file contains strings.
 
@@ -13,7 +13,7 @@ yellow
 tooth
 ````
 
-## OUTPUT SAMPLE:
+### OUTPUT SAMPLE:
 
 Print to stdout the first non-repeated character, one per line.
 
